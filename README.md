@@ -14,6 +14,7 @@ newWallet: The target wallet that all tokens are sent to
 providerURL: A Websocket RPC provider URL (Most free WSS providers will not work, one option is the <a href="https://www.quicknode.com/">QuickNode</a> free tier)
 
 ## How to run
+0. **You should read a script before putting your private key into it**
 1. Install node & npm
 2. `npm i`
 3. `node fast_erc20_redirect.js`
